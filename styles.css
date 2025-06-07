@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(74, 73, 73);
+}
+
+.cards{
+    width: 90%;
+    height: 500px;
+    margin: 200px auto;
+}
+
+.card{
+    text-align: left;
+}
