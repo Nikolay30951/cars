@@ -6,7 +6,7 @@ body{
     margin: 0;
     font-family: sans-serif;
     text-align: center;
-    background-color: rgb(74, 73, 73);
+    background-color: rgb(155, 143, 143);
 }
 
 .cards{
@@ -28,7 +28,7 @@ body{
 }
 
 .card__title{
-    font-family: Nunito, cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
